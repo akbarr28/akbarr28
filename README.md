@@ -28,7 +28,6 @@
 ![NUnit](https://img.shields.io/badge/NUnit-25A162?style=for-the-badge&logo=nunit&logoColor=white)
 
 ![](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux,postman&perline=9)
--->
 
 
 ### Concepts & Practices
@@ -38,3 +37,4 @@
 ![SOLID](https://img.shields.io/badge/SOLID_Principles-7C3AED?style=for-the-badge)
 ![Dependency Injection](https://img.shields.io/badge/Dependency_Injection-2563EB?style=for-the-badge)
 ![Clean Code](https://img.shields.io/badge/Clean_Code-16A34A?style=for-the-badge)
+-->
