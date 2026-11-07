@@ -1,3 +1,4 @@
+<!--
 ### Languages
 
 ![](https://skillicons.dev/icons?i=py,cs,go,c,js,html,css,java,kotlin&perline=9)
@@ -27,6 +28,7 @@
 ![NUnit](https://img.shields.io/badge/NUnit-25A162?style=for-the-badge&logo=nunit&logoColor=white)
 
 ![](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux,postman&perline=9)
+-->
 
 
 ### Concepts & Practices
